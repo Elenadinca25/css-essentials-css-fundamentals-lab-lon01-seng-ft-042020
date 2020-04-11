@@ -7,9 +7,6 @@ h1 {
   color: red;
 }
 
-section {
-  text-align: center;
-}
-p {
+p#section {
   text-align: center;
 }
